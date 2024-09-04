@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\gissSpel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFA9C7A-D83C-4FA5-A46E-125C1A85A699}|gissSpel\\gissSpel.csproj|c:\\users\\alitl\\source\\repos\\1.-programmering-c-.net24\\gissspel\\gissspel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFA9C7A-D83C-4FA5-A46E-125C1A85A699}|gissSpel\\gissSpel.csproj|solutionrelative:gissspel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\gissSpel\\gissSpel\\Program.cs",
+              "RelativeDocumentMoniker": "gissSpel\\Program.cs",
+              "ToolTip": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\gissSpel\\gissSpel\\Program.cs",
+              "RelativeToolTip": "gissSpel\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwBwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T16:06:49.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

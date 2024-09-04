@@ -1,0 +1,14 @@
+C:\Users\alitl\source\repos\gissSpel\gissSpel\bin\Debug\net8.0\gissSpel.exe
+C:\Users\alitl\source\repos\gissSpel\gissSpel\bin\Debug\net8.0\gissSpel.deps.json
+C:\Users\alitl\source\repos\gissSpel\gissSpel\bin\Debug\net8.0\gissSpel.runtimeconfig.json
+C:\Users\alitl\source\repos\gissSpel\gissSpel\bin\Debug\net8.0\gissSpel.dll
+C:\Users\alitl\source\repos\gissSpel\gissSpel\bin\Debug\net8.0\gissSpel.pdb
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\gissSpel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\gissSpel.AssemblyInfoInputs.cache
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\gissSpel.AssemblyInfo.cs
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\gissSpel.csproj.CoreCompileInputs.cache
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\gissSpel.dll
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\refint\gissSpel.dll
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\gissSpel.pdb
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\gissSpel.genruntimeconfig.cache
+C:\Users\alitl\source\repos\gissSpel\gissSpel\obj\Debug\net8.0\ref\gissSpel.dll
