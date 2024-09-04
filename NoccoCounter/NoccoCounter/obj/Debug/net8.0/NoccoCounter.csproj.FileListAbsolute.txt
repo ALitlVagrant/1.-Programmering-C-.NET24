@@ -1,0 +1,14 @@
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\bin\Debug\net8.0\NoccoCounter.exe
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\bin\Debug\net8.0\NoccoCounter.deps.json
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\bin\Debug\net8.0\NoccoCounter.runtimeconfig.json
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\bin\Debug\net8.0\NoccoCounter.dll
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\bin\Debug\net8.0\NoccoCounter.pdb
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\NoccoCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\NoccoCounter.AssemblyInfoInputs.cache
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\NoccoCounter.AssemblyInfo.cs
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\NoccoCounter.csproj.CoreCompileInputs.cache
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\NoccoCounter.dll
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\refint\NoccoCounter.dll
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\NoccoCounter.pdb
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\NoccoCounter.genruntimeconfig.cache
+C:\Users\alitl\source\repos\NoccoCounter\NoccoCounter\obj\Debug\net8.0\ref\NoccoCounter.dll
