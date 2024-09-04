@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alitl\\source\\repos\\Calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10F5D753-D762-4AB6-809A-C4576D2C091A}|Calculator\\Calculator.csproj|c:\\users\\alitl\\source\\repos\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10F5D753-D762-4AB6-809A-C4576D2C091A}|Calculator\\Calculator.csproj|c:\\users\\alitl\\source\\repos\\1.-programmering-c-.net24\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10F5D753-D762-4AB6-809A-C4576D2C091A}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\Calculator\\Calculator\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\Calculator\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
-              "ToolTip": "C:\\Users\\alitl\\source\\repos\\Calculator\\Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\Calculator\\Calculator\\Program.cs",
               "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T08:28:02.371Z",
               "EditorCaption": ""

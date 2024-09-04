@@ -5,42 +5,35 @@
         static void Main(string[] args)
         {
 
+
             double myNum1 = 0;
             double myNum2 = 0;
-
-            Console.WriteLine("Console Calculator in C#");
-            Console.WriteLine("------------------------");
-
 
             Console.WriteLine("Type a number and press Enter");
             myNum1 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Type a number and press Enter");
             myNum2 = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("Please choose option");
-            Console.WriteLine("\ta - Add");
-            Console.WriteLine("\ts - Subtract");
-            Console.WriteLine("\td - Multiply");
-            Console.WriteLine("\tw - Divide");
-
-            Console.Write("Your Option?");
-
+            DisplayMenu();
             var val = Console.ReadLine();
 
-            if (val == "a")
+            if (val.ToUpper() == "a")
             {
-                Console.WriteLine($"Your result: {myNum1} + {myNum2} = " + (myNum1 + myNum2));
+                double answerAdd = AddMath(myNum1, myNum2);
+                Console.WriteLine($"{myNum1} + {myNum2} = {answerAdd}");
             }
-            if (val == "s")
+            if (val.ToUpper() == "s")
             {
-                Console.WriteLine($"Your result: {myNum1} - {myNum2} = " + (myNum1 - myNum2));
+                double answerSub = SubMath(myNum1, myNum2);
+                Console.WriteLine($"{myNum1} - {myNum2} = {answerSub}");
             }
-            if (val == "d")
+            if (val.ToUpper() == "d")
             {
-                Console.WriteLine($"Your result: {myNum1} * {myNum2} = " + (myNum1 * myNum2));
+                double answerMul = MulMath(myNum1, myNum2);
+                Console.WriteLine($"{myNum1} * {myNum2} = {answerMul}");
             }
-            if(val == "w")
+
+            if (val.ToUpper() == "w")
             {
                 while (myNum2 == 0)
                 {
@@ -50,15 +43,41 @@
 
 
                 }
-                Console.WriteLine($"Your result: {myNum1} / {myNum2} = " + (myNum1 / myNum2));
-
+                double answerDiv = DivMath(myNum1, myNum2);
+                Console.WriteLine($"{myNum1} / {myNum2} = {answerDiv}");
 
             }
-            
+        }
+        static void DisplayMenu()
+        {
+            string[] mainMenu = { "------------------------", "Console Calculator in C#", "Please choose option!:","A - Add","S - Subtract","D - Multiply","W - Divide"};
 
-           
-
+            foreach(string i in mainMenu)
+            {
+                Console.WriteLine(i);
+            }
 
         }
+        static double AddMath (double addNum1, double addNum2)
+        {
+            double result = addNum1 + addNum2;
+            return result;
+        }
+        static double SubMath(double subNum1, double subNum2)
+        {
+            double result = subNum1 - subNum2;
+            return result;
+        }
+        static double MulMath(double mulNum1, double mulNum2)
+        {
+            double result = mulNum1 * mulNum2;
+            return result;
+        }
+        static double DivMath(double divNum1, double divNum2)
+        {
+            double result = (divNum1 / divNum2);
+            return result;
+        }
+        
     }
 }
