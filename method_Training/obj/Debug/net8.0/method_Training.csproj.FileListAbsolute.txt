@@ -1,0 +1,14 @@
+C:\Users\alitl\source\repos\method_Training\bin\Debug\net8.0\method_Training.exe
+C:\Users\alitl\source\repos\method_Training\bin\Debug\net8.0\method_Training.deps.json
+C:\Users\alitl\source\repos\method_Training\bin\Debug\net8.0\method_Training.runtimeconfig.json
+C:\Users\alitl\source\repos\method_Training\bin\Debug\net8.0\method_Training.dll
+C:\Users\alitl\source\repos\method_Training\bin\Debug\net8.0\method_Training.pdb
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\method_Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\method_Training.AssemblyInfoInputs.cache
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\method_Training.AssemblyInfo.cs
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\method_Training.csproj.CoreCompileInputs.cache
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\method_Training.dll
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\refint\method_Training.dll
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\method_Training.pdb
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\method_Training.genruntimeconfig.cache
+C:\Users\alitl\source\repos\method_Training\obj\Debug\net8.0\ref\method_Training.dll
