@@ -1,0 +1,14 @@
+C:\Users\alitl\source\repos\POECurrencyCalc\bin\Debug\net8.0\POECurrencyCalc.exe
+C:\Users\alitl\source\repos\POECurrencyCalc\bin\Debug\net8.0\POECurrencyCalc.deps.json
+C:\Users\alitl\source\repos\POECurrencyCalc\bin\Debug\net8.0\POECurrencyCalc.runtimeconfig.json
+C:\Users\alitl\source\repos\POECurrencyCalc\bin\Debug\net8.0\POECurrencyCalc.dll
+C:\Users\alitl\source\repos\POECurrencyCalc\bin\Debug\net8.0\POECurrencyCalc.pdb
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\POECurrencyCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\POECurrencyCalc.AssemblyInfoInputs.cache
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\POECurrencyCalc.AssemblyInfo.cs
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\POECurrencyCalc.csproj.CoreCompileInputs.cache
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\POECurrencyCalc.dll
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\refint\POECurrencyCalc.dll
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\POECurrencyCalc.pdb
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\POECurrencyCalc.genruntimeconfig.cache
+C:\Users\alitl\source\repos\POECurrencyCalc\obj\Debug\net8.0\ref\POECurrencyCalc.dll
