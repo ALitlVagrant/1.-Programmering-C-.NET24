@@ -1,0 +1,14 @@
+C:\Users\alitl\source\repos\Inheritance_Excercise\bin\Debug\net8.0\Inheritance_Excercise.exe
+C:\Users\alitl\source\repos\Inheritance_Excercise\bin\Debug\net8.0\Inheritance_Excercise.deps.json
+C:\Users\alitl\source\repos\Inheritance_Excercise\bin\Debug\net8.0\Inheritance_Excercise.runtimeconfig.json
+C:\Users\alitl\source\repos\Inheritance_Excercise\bin\Debug\net8.0\Inheritance_Excercise.dll
+C:\Users\alitl\source\repos\Inheritance_Excercise\bin\Debug\net8.0\Inheritance_Excercise.pdb
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\Inheritance_Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\Inheritance_Excercise.AssemblyInfoInputs.cache
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\Inheritance_Excercise.AssemblyInfo.cs
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\Inheritance_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\Inheritance_Excercise.dll
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\refint\Inheritance_Excercise.dll
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\Inheritance_Excercise.pdb
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\Inheritance_Excercise.genruntimeconfig.cache
+C:\Users\alitl\source\repos\Inheritance_Excercise\obj\Debug\net8.0\ref\Inheritance_Excercise.dll
