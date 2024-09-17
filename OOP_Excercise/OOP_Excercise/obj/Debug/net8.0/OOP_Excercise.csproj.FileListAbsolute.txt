@@ -1,0 +1,14 @@
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\bin\Debug\net8.0\OOP_Excercise.exe
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\bin\Debug\net8.0\OOP_Excercise.deps.json
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\bin\Debug\net8.0\OOP_Excercise.runtimeconfig.json
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\bin\Debug\net8.0\OOP_Excercise.dll
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\bin\Debug\net8.0\OOP_Excercise.pdb
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\OOP_Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\OOP_Excercise.AssemblyInfoInputs.cache
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\OOP_Excercise.AssemblyInfo.cs
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\OOP_Excercise.csproj.CoreCompileInputs.cache
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\OOP_Excercise.dll
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\refint\OOP_Excercise.dll
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\OOP_Excercise.pdb
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\OOP_Excercise.genruntimeconfig.cache
+C:\Users\alitl\source\repos\OOP_Excercise\OOP_Excercise\obj\Debug\net8.0\ref\OOP_Excercise.dll
