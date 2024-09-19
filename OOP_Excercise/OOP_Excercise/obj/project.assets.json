@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\OOP_Excercise.csproj",
+      "projectUniqueName": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\OOP_Excercise.csproj",
       "projectName": "OOP_Excercise",
-      "projectPath": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\OOP_Excercise.csproj",
+      "projectPath": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\OOP_Excercise.csproj",
       "packagesPath": "C:\\Users\\alitl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\obj\\",
+      "outputPath": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alitl\\AppData\\Roaming\\NuGet\\NuGet.Config",

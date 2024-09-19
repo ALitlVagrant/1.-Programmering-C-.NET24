@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\",
+  "WorkspaceRootPath": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|c:\\users\\alitl\\source\\repos\\oop_excercise\\oop_excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|solutionrelative:oop_excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|c:\\users\\alitl\\source\\repos\\oop_excercise\\oop_excercise\\djur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|c:\\users\\alitl\\source\\repos\\1.-programmering-c-.net24\\oop_excercise\\oop_excercise\\djur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|solutionrelative:oop_excercise\\djur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|c:\\users\\alitl\\source\\repos\\oop_excercise\\oop_excercise\\bok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|c:\\users\\alitl\\source\\repos\\1.-programmering-c-.net24\\oop_excercise\\oop_excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|solutionrelative:oop_excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|c:\\users\\alitl\\source\\repos\\1.-programmering-c-.net24\\oop_excercise\\oop_excercise\\bok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|solutionrelative:oop_excercise\\bok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|c:\\users\\alitl\\source\\repos\\oop_excercise\\oop_excercise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|c:\\users\\alitl\\source\\repos\\1.-programmering-c-.net24\\oop_excercise\\oop_excercise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76096AB2-0B90-4089-A5F6-0C31724F7397}|OOP_Excercise\\OOP_Excercise.csproj|solutionrelative:oop_excercise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,50 +40,48 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\Person.cs",
               "RelativeDocumentMoniker": "OOP_Excercise\\Person.cs",
-              "ToolTip": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\Person.cs",
+              "ToolTip": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\Person.cs",
               "RelativeToolTip": "OOP_Excercise\\Person.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAcwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:42:25.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T12:42:25.896Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "bok.cs",
-              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\bok.cs",
+              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\bok.cs",
               "RelativeDocumentMoniker": "OOP_Excercise\\bok.cs",
-              "ToolTip": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\bok.cs",
+              "ToolTip": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\bok.cs",
               "RelativeToolTip": "OOP_Excercise\\bok.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:14:05.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T12:14:05.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Djur.cs",
-              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\Djur.cs",
+              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\Djur.cs",
               "RelativeDocumentMoniker": "OOP_Excercise\\Djur.cs",
-              "ToolTip": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\Djur.cs",
+              "ToolTip": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\Djur.cs",
               "RelativeToolTip": "OOP_Excercise\\Djur.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T12:43:34.065Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\Program.cs",
               "RelativeDocumentMoniker": "OOP_Excercise\\Program.cs",
-              "ToolTip": "C:\\Users\\alitl\\source\\repos\\OOP_Excercise\\OOP_Excercise\\Program.cs",
+              "ToolTip": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\OOP_Excercise\\OOP_Excercise\\Program.cs",
               "RelativeToolTip": "OOP_Excercise\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwCkAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T11:15:10.404Z",
               "EditorCaption": ""
