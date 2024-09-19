@@ -1,0 +1,14 @@
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\bin\Debug\net8.0\Interface_Abstract_Classes.exe
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\bin\Debug\net8.0\Interface_Abstract_Classes.deps.json
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\bin\Debug\net8.0\Interface_Abstract_Classes.runtimeconfig.json
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\bin\Debug\net8.0\Interface_Abstract_Classes.dll
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\bin\Debug\net8.0\Interface_Abstract_Classes.pdb
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\Interface_Abstract_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\Interface_Abstract_Classes.AssemblyInfoInputs.cache
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\Interface_Abstract_Classes.AssemblyInfo.cs
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\Interface_Abstract_Classes.csproj.CoreCompileInputs.cache
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\Interface_Abstract_Classes.dll
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\refint\Interface_Abstract_Classes.dll
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\Interface_Abstract_Classes.pdb
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\Interface_Abstract_Classes.genruntimeconfig.cache
+C:\Users\alitl\source\repos\Interface_Abstract_Classes\Interface_Abstract_Classes\obj\Debug\net8.0\ref\Interface_Abstract_Classes.dll
