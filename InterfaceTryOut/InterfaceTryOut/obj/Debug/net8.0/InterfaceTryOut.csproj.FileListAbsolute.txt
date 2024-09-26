@@ -1,0 +1,14 @@
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\bin\Debug\net8.0\InterfaceTryOut.exe
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\bin\Debug\net8.0\InterfaceTryOut.deps.json
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\bin\Debug\net8.0\InterfaceTryOut.runtimeconfig.json
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\bin\Debug\net8.0\InterfaceTryOut.dll
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\bin\Debug\net8.0\InterfaceTryOut.pdb
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\InterfaceTryOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\InterfaceTryOut.AssemblyInfoInputs.cache
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\InterfaceTryOut.AssemblyInfo.cs
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\InterfaceTryOut.csproj.CoreCompileInputs.cache
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\InterfaceTryOut.dll
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\refint\InterfaceTryOut.dll
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\InterfaceTryOut.pdb
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\InterfaceTryOut.genruntimeconfig.cache
+C:\Users\alitl\RiderProjects\InterfaceTryOut\InterfaceTryOut\obj\Debug\net8.0\ref\InterfaceTryOut.dll
