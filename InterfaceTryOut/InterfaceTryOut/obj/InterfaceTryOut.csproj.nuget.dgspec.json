@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alitl\\RiderProjects\\InterfaceTryOut\\InterfaceTryOut\\InterfaceTryOut.csproj": {}
+    "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\InterfaceTryOut\\InterfaceTryOut\\InterfaceTryOut.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alitl\\RiderProjects\\InterfaceTryOut\\InterfaceTryOut\\InterfaceTryOut.csproj": {
+    "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\InterfaceTryOut\\InterfaceTryOut\\InterfaceTryOut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alitl\\RiderProjects\\InterfaceTryOut\\InterfaceTryOut\\InterfaceTryOut.csproj",
+        "projectUniqueName": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\InterfaceTryOut\\InterfaceTryOut\\InterfaceTryOut.csproj",
         "projectName": "InterfaceTryOut",
-        "projectPath": "C:\\Users\\alitl\\RiderProjects\\InterfaceTryOut\\InterfaceTryOut\\InterfaceTryOut.csproj",
+        "projectPath": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\InterfaceTryOut\\InterfaceTryOut\\InterfaceTryOut.csproj",
         "packagesPath": "C:\\Users\\alitl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alitl\\RiderProjects\\InterfaceTryOut\\InterfaceTryOut\\obj\\",
+        "outputPath": "C:\\Users\\alitl\\source\\repos\\1.-Programmering-C-.NET24\\InterfaceTryOut\\InterfaceTryOut\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alitl\\AppData\\Roaming\\NuGet\\NuGet.Config",

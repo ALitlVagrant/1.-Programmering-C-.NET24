@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterfaceTryOut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e47cb8664df4114aeb1ab7e1fa30aac76d9f3a81")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterfaceTryOut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterfaceTryOut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

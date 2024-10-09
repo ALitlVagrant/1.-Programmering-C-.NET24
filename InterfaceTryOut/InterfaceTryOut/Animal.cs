@@ -4,7 +4,7 @@ public abstract class Animal : IAnimal
 {
     public void Eat()
     {
-        Console.WriteLine("The Animal is eating...");
+        Console.WriteLine($"The {Species} is eating...");
         
     }
 
@@ -26,6 +26,7 @@ public abstract class Animal : IAnimal
 
 public class Dog : Animal, IPredator
 {
+    //public void Eat()
     public void Hunt()
     {
         Console.WriteLine($"The {Species} is hunting...");
@@ -65,5 +66,19 @@ public class Squid : Animal, IPrey, IPredator
     public override void MakeSound()
     {
         Console.WriteLine($"The {Species} is MRRRLGGGing");
+    }
+}
+
+public class Bunny : Animal, IPrey
+{
+    public override void MakeSound()
+    {
+        Console.WriteLine($"The {Species} is making a bunny sound!");
+        
+    }
+
+    public void Flee()
+    {
+        Console.WriteLine($"The {Species} is fleeing...");
     }
 }
